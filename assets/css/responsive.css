@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+
+    .brand-logo>h3 {
+
+        position: relative;
+        left: 70px;
+        font-size: 30px;
+
+
+    }
+
+    .fs_nav ul li {
+
+        display: block;
+        cursor: pointer;
+
+    }
+
+
+
+    .jumbotron_text {
+
+        font-size: 18px;
+        font-weight: normal;
+
+    }
+
+}
